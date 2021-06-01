@@ -4,7 +4,8 @@
   "description": "A chatbot built to practice jQuery and external API integration.",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "start": "nodemon"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/ABJolis/bug_bot/issues"
   },
-  "homepage": "https://github.com/ABJolis/bug_bot#readme"
+  "homepage": "https://github.com/ABJolis/bug_bot#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "jquery": "^3.6.0",
+    "jQuery": "^1.7.4",
+    "parser": "^0.1.4",
+    "sv443-joke-api": "^0.1.0"
+  }
 }
