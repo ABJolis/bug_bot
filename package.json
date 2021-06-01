@@ -1,0 +1,19 @@
+{
+  "name": "bugbot",
+  "version": "1.0.0",
+  "description": "A chatbot built to practice jQuery and external API integration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABJolis/bug_bot.git"
+  },
+  "author": "ABJolis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ABJolis/bug_bot/issues"
+  },
+  "homepage": "https://github.com/ABJolis/bug_bot#readme"
+}
