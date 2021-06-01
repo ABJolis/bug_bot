@@ -6,7 +6,7 @@ Get a joke, squash some bugs! Bugbot is a chatbot that tells jokes and generates
 
 1. Clone this repo and load the directory:
 ```
-git clone https://github.com/ABJolis/bugbot.git
+git clone https://github.com/ABJolis/bug_bot.git
 ```
 
 2. Change to the correct working directory:
@@ -21,22 +21,22 @@ npm install
 
 4. Start the server:
 ```
-npm start
+nodemon
 ```
 
 5. Open a browser and navigate to [localhost:3000](http://localhost:3000/)
 
 ## Description
 
-Bugbot pulls from [JokeAPI](https://jokeapi.dev/) to reply to any message with a programming-related joke. The catch? Every time the user hits 'send,' bugs appear on the screen! (Thankfully, these bugs can be easily squashed, with the 'squash bugs' button.) This app was built to amuse myself while honing my skills with jQuery and REST API integration. I hope it gives you a smile!
+Bugbot pulls from [JokeAPI](https://jokeapi.dev/) to reply to any message with a programming-related joke. The catch? Every time the user hits 'send,' bugs appear on the screen! (Thankfully, these bugs can be easily squashed, with the 'squash bugs' button.) This app was built to amuse myself while honing my skills with jquery and REST API integration. I hope it gives you a smile!
 
-![Bugbot](<https://github.com/ABJolis/bugbot/raw/master/BuggingOut.png>)
+![Bugbot](<https://github.com/ABJolis/bug_bot/raw/master/BuggingOut.png>)
 
 
 ## Tech Stack
 
 * Frontend:
-  - [jQuery](https://jquery.com/)
+  - [jquery](https://jquery.com/)
   - [CSS art](https://css-tricks.com/very-extremely-practical-css-art/)
   - [JokeAPI](https://jokeapi.dev/)
 
