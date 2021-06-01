@@ -4,7 +4,7 @@ const router = require('./router');
 const app = express();
 const PORT = 3000;
 
-app.use(express.static('app/client'));
+app.use(express.static('client'));
 app.use(express.json());
 
 app.use(router);
