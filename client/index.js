@@ -66,7 +66,7 @@ $(() => {
     const $container = $('.container');
     return [
       Math.round($container.height() * Math.random()),
-      Math.round($container.width() * 2 * Math.random())
+      Math.round($container.width() * 3 * Math.random())
     ];
   }
 

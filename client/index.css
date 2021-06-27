@@ -24,7 +24,8 @@ header {
   text-align: center;
   margin-top: 10%;
   margin-bottom: 5%;
-  width: 600px;
+  width: 50vw;
+  max-width: 600px;
   border-radius: 10px;
 }
 
@@ -43,7 +44,8 @@ h1 {
 }
 
 .messages-container {
-  width: 600px;
+  width: 50vw;
+  max-width: 600px;
   height: 70vh;
   background: ivory;
   border-radius: 10px;
@@ -51,7 +53,8 @@ h1 {
 }
 
 .input-container {
-  width: 600px;
+  width: 50vw;
+  max-width: 600px;
 	height: 50px;
   justify-content: center;
 }
