@@ -24,7 +24,7 @@ npm install
 nodemon
 ```
 
-5. Open a browser and navigate to [localhost:3000](http://localhost:3000/)
+5. Open a browser and navigate to [localhost:3001](http://localhost:3001/)
 
 ## Description
 
